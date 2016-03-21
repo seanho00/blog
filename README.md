@@ -1,2 +1,2 @@
-# blog
-Sean and Maggie's photo blog
+# Sean's photo blog
+## Now a family of three...
