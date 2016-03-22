@@ -7,13 +7,14 @@ Reunion08: family portrait!
 :slug: reunion08-family-portrait
 :status: published
 
-| Yes, so every time we get together as a family, our mom really wants
+Yes, so every time we get together as a family, our mom really wants
   us to have a nice family portrait -- so she can show us off everywhere
   she goes, of course! One family reunion back before any of the kids
   were born, we had a family portrait that included my sister-in-law
   before they got married -- I think it was even before they were
   engaged.
-|  That family photo got circulated through the many churches my parents
+
+That family photo got circulated through the many churches my parents
   speak at, and even got published in one of their books. Fortunately,
   my brother did marry her -- it would have been mighty awkward if they
   hadn't gotten married and she was still in those books!
@@ -25,6 +26,6 @@ can be hoped for! We were able to take three bursts of shots before the
 overlapping windows of happiness for all the little ones started
 closing....
 
-`
- More photos in a separate
-album! <http://photo.seanho.com/2008-05_Ferncroft_Reunion/>`__
+
+More photos in a separate
+album! <http://photo.seanho.com/2008-05_Ferncroft_Reunion/>

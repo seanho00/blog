@@ -7,8 +7,7 @@ TGIF BBQ at Buntzen Lake!
 :slug: tgif-bbq-at-buntzen-lake
 :status: published
 
-*`
- 49° 21' 53" N by 122° 51' 19"
+*` 49° 21m 53s N by 122° 51m 19s
 W <http://maps.google.com/maps?q=49.339860N122.857758W&t=h>`__*
 
 It's summertime, finally! And that means BBQ time! Our TGIF

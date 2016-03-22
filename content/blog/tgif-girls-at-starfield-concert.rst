@@ -7,9 +7,7 @@ TGIF girls at Starfield concert
 :slug: tgif-girls-at-starfield-concert
 :status: published
 
-*`
- 49° 14' 27" N by 123° 0' 10"
-W <http://maps.google.com/maps?q=49.240967N123.002906W&t=h>`__*
+*` 49° 14m 27s N by 123° 0m 10s W`*
 
 Last month our Friday night fellowship `had planned to
 attend </2008/dinner-in-lieu-of-starfield-concert>`__ the Christian
