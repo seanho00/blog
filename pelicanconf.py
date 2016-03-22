@@ -44,6 +44,9 @@ SOCIAL = (
     ('linkedin', 'http://www.linkedin.com/in/seanho00'),
 )
 
+LOAD_CONTENT_CACHE = True
+CACHE_PATH = 'cache'
+
 # Settings for development server; overridden in publishconf.py
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
