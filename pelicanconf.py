@@ -10,7 +10,6 @@ AUTHOR = 'Sean Ho'
 SITENAME = 'Sean\'s photoblog'
 SITESUBTITLE = 'Now a family of three...'
 
-FAVICON = '/images/seanho-icon.png'
 HEADER_COVER = '/images/unsplash-Nte-4RiRfwU-fjord.jpg'
 
 THEME = 'pelican-clean-blog'
@@ -23,6 +22,7 @@ PATH = 'content'
 STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
+    'images/seanho-icon.ico': {'path': 'favicon.ico'},
 }
 
 DISPLAY_PAGES_ON_MENU = True
