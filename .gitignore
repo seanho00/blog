@@ -4,5 +4,4 @@
 *.swo
 __pycache__/
 output/
-cache/
 *.pid
