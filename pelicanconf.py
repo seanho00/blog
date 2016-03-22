@@ -11,11 +11,9 @@ SITENAME = 'Sean\'s photoblog'
 SITESUBTITLE = 'Now a family of three...'
 
 FAVICON = '/images/seanho-icon.png'
-AVATAR = '/images/seanho-180.png'
-BANNER = '/images/caswell-dark.jpg'
+HEADER_COVER = '/images/unsplash-Nte-4RiRfwU-fjord.jpg'
 
-THEME = 'puree'
-PYGMENTS_STYLE = 'solarizeddark'
+THEME = 'pelican-clean-blog'
 
 TIMEZONE = 'America/Vancouver'
 DEFAULT_LANG = 'en'
@@ -30,8 +28,10 @@ EXTRA_PATH_METADATA = {
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DEFAULT_CATEGORY = "blog"
-DIRECT_TEMPLATES = ['tags', 'categories']
-PAGINATED_DIRECT_TEMPLATES = ['categories']
+INDEX_SAVE_AS = 'index.html'
+DIRECT_TEMPLATES = ['index', 'tags', 'categories']
+DEFAULT_PAGINATION = 10
+PAGINATED_DIRECT_TEMPLATES = ['index']
 
 PLUGIN_PATHS = ['../plugins']
 PLUGINS = ['assets', 'autopages', 'better_figures_and_images', 'gallery', 'gravatar', 'sitemap', 'photos']
@@ -39,6 +39,7 @@ SITEMAP = { 'format': 'xml' }
 
 LINKS = (('Sean Ho', 'http://seanho.com/'),)
 SOCIAL = (
+    ('facebook', 'http://facebook.com/seanho00'),
     ('github', 'https://seanho00.github.com'),
     ('linkedin', 'http://www.linkedin.com/in/seanho00'),
 )

@@ -30,3 +30,8 @@ AUTHORS_SAVE_AS         = 'author/index.html'
 CATEGORIES_SAVE_AS      = 'categories.html'
 TAGS_SAVE_AS            = 'tag/index.html'
 INDEX_SAVE_AS           = 'articles.html'
+
+PAGINATION_PATTERNS = (
+    (1, '{base_name}/', '{base_name}/index.html'),
+    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+)
